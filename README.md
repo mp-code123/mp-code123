@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Manish! 👋
 
-<!--
-**mp-code123/mp-code123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who loves working with:
+- 🖥️ Front-end technologies (React, Nextjs)
+- 🔧 Back-end development (Node.js, Express)
+- 🌱 Currently learning TypeScript
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-1B73B8?style=flat-square&logo=appwrite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Pinned Repositories
+- [Awesome Project 1](https://github.com/mp-code123/repo1)
+- [Cool Project 2](https://github.com/mp-code123/repo2)
+- [Open Source Contribution](https://github.com/mp-code123/repo3)
+
+## 🤝 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/me-manish-prajapati)
+- [Twitter](https://twitter.com/yourusername)
+- [Portfolio](https://mrmanish.vercel.app)
