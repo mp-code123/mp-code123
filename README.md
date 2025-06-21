@@ -18,11 +18,8 @@ I'm a passionate developer who loves working with:
 
 
 ## 📌 Pinned Repositories
-- [Awesome Project 1](https://github.com/mp-code123/repo1)
-- [Cool Project 2](https://github.com/mp-code123/repo2)
-- [Open Source Contribution](https://github.com/mp-code123/repo3)
+- [Awesome Project 1](https://github.com/mp-code123/news-flash)
 
 ## 🤝 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/me-manish-prajapati)
-- [Twitter](https://twitter.com/yourusername)
 - [Portfolio](https://mrmanish.vercel.app)
